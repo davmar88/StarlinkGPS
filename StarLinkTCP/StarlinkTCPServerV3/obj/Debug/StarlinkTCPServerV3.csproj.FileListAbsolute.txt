@@ -1,0 +1,6 @@
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\bin\Debug\StarlinkTCPServerV3.exe.config
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\bin\Debug\StarlinkTCPServerV3.exe
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\bin\Debug\StarlinkTCPServerV3.pdb
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\obj\Debug\StarlinkTCPServerV3.csprojAssemblyReference.cache
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\obj\Debug\StarlinkTCPServerV3.exe
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV3\obj\Debug\StarlinkTCPServerV3.pdb

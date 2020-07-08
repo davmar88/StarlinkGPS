@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "StarlinkTCPServer": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\obj\Debug\StarlinkTCPServerV2.csprojAssemblyReference.cache
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\StarlinkTCPServerV2.exe.config
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\StarlinkTCPServerV2.exe
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\StarlinkTCPServerV2.pdb
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\CMoreClient.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\NLog.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\CMoreClient.pdb
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\CMoreClient.dll.config
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\NLog.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\obj\Debug\StarlinkTCPServerV2.csproj.CopyComplete
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\obj\Debug\StarlinkTCPServerV2.exe
+C:\Users\marie\Source\Repos\StarLinkTCP\StarlinkTCPServerV2\obj\Debug\StarlinkTCPServerV2.pdb

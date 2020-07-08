@@ -1,0 +1,13 @@
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\obj\Debug\CMoreClient.csprojAssemblyReference.cache
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\CMoreClient.dll.config
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\CMoreClient.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\CMoreClient.pdb
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\NLog.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\NLog.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\obj\Debug\CMoreClient.csproj.CopyComplete
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\obj\Debug\CMoreClient.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\CMoreClient\obj\Debug\CMoreClient.pdb

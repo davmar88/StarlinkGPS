@@ -1,0 +1,9 @@
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\bin\Debug\net452\WatsonTcp.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\bin\Debug\net452\WatsonTcp.pdb
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\bin\Debug\net452\Newtonsoft.Json.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.csprojAssemblyReference.cache
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.AssemblyInfoInputs.cache
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.AssemblyInfo.cs
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.csproj.CopyComplete
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.dll
+C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\obj\Debug\net452\WatsonTcp.pdb

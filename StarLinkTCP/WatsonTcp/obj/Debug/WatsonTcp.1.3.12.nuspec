@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WatsonTcp</id>
+    <version>1.3.12</version>
+    <authors>Joel Christner</authors>
+    <owners>Joel Christner</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/jchristn/WatsonTcp/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://github.com/jchristn/WatsonTcp</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/jchristn/watsontcp/master/assets/watson.ico</iconUrl>
+    <description>A simple C# async TCP server and client with integrated framing for reliable transmission and receipt of data</description>
+    <releaseNotes>Reduce instances of calls to GetStream</releaseNotes>
+    <copyright>(c)2019 Joel Christner</copyright>
+    <tags>tcp rpc ssl message messaging frame framing async</tags>
+    <repository type="Github" url="https://github.com/jchristn/WatsonTcp" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2">
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\bin\Debug\net452\WatsonTcp.dll" target="lib\net452\WatsonTcp.dll" />
+    <file src="C:\Users\marie\Source\Repos\StarLinkTCP\WatsonTcp\bin\Debug\netstandard2.0\WatsonTcp.dll" target="lib\netstandard2.0\WatsonTcp.dll" />
+  </files>
+</package>
